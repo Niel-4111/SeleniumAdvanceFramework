@@ -1,4 +1,4 @@
-package com.apiautomation.tests;
+package com.apiautomation.tests.sample;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
