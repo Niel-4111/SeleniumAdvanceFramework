@@ -2,3 +2,15 @@
 2025-02-08 17:52:55 INFO  TestVWOLogin_06_Improved_POM_PropertiesReader_DriverManager - End of the testLoginNegativeVWO !
 2025-02-08 17:52:59 INFO  TestVWOLogin_06_Improved_POM_PropertiesReader_DriverManager - Starting the Testcases |  Verify that valid creds dashboard page is loaded
 2025-02-08 17:53:27 INFO  TestVWOLogin_06_Improved_POM_PropertiesReader_DriverManager - End and Asserting testLoginPositiveVWO
+2025-02-12 09:17:07 INFO  TestVWOLogin_07_Improved_POM_PropertiesReader_DriverManager_Retry - Starting the Testcases Page Object Model
+2025-02-12 09:17:18 INFO  TestVWOLogin_07_Improved_POM_PropertiesReader_DriverManager_Retry - End of the testLoginNegativeVWO !
+2025-02-12 09:17:22 INFO  TestVWOLogin_07_Improved_POM_PropertiesReader_DriverManager_Retry - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-02-12 09:17:43 INFO  TestVWOLogin_07_Improved_POM_PropertiesReader_DriverManager_Retry - End and Asserting testLoginPositiveVWO
+2025-02-12 09:17:47 INFO  TestVWOLogin_07_Improved_POM_PropertiesReader_DriverManager_Retry - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-02-12 09:18:07 INFO  TestVWOLogin_07_Improved_POM_PropertiesReader_DriverManager_Retry - End and Asserting testLoginPositiveVWO
+2025-02-12 09:18:10 INFO  TestVWOLogin_07_Improved_POM_PropertiesReader_DriverManager_Retry - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-02-12 09:18:34 INFO  TestVWOLogin_07_Improved_POM_PropertiesReader_DriverManager_Retry - End and Asserting testLoginPositiveVWO
+2025-02-12 09:18:38 INFO  TestVWOLogin_07_Improved_POM_PropertiesReader_DriverManager_Retry - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-02-12 09:18:58 INFO  TestVWOLogin_07_Improved_POM_PropertiesReader_DriverManager_Retry - End and Asserting testLoginPositiveVWO
+2025-02-12 09:19:02 INFO  TestVWOLogin_07_Improved_POM_PropertiesReader_DriverManager_Retry - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-02-12 09:19:23 INFO  TestVWOLogin_07_Improved_POM_PropertiesReader_DriverManager_Retry - End and Asserting testLoginPositiveVWO
