@@ -31,16 +31,19 @@ public class DriverManager {
                 case "edge" :
                     EdgeOptions edgeOptions = new EdgeOptions();
                     edgeOptions.addArguments("--start-maximized");
+                    edgeOptions.setCapability("goog:loggingPrefs", "OFF");
                     driver = new EdgeDriver(edgeOptions);
                     break;
                 case "chrome":
                     ChromeOptions chromeOptions = new ChromeOptions();
                     chromeOptions.addArguments("--start-maximized");
+                    chromeOptions.setCapability("goog:loggingPrefs", "OFF");
                     driver = new ChromeDriver(chromeOptions);
                     break;
                 case "firefox":
                     FirefoxOptions firefoxOptions = new FirefoxOptions();
                     firefoxOptions.addArguments("--start-maximized");
+                    firefoxOptions.setCapability("goog:loggingPrefs", "OFF");
                     driver = new FirefoxDriver(firefoxOptions);
                     break;
                 default:
